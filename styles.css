@@ -1,0 +1,9 @@
+body {
+    background: rgba(0, 162, 255, 0.89);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: darkcyan;
+    text-align:center;
+}
